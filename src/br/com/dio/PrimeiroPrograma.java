@@ -4,7 +4,7 @@ import br.com.dio.model.Gato;
 
 public class PrimeiroPrograma {
 
-	public static void main (String[] args) {
+	public static void main(String[] args) {
 
 		/*int a = 2; 
 		int b = 3;
